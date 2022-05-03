@@ -1,0 +1,3 @@
+﻿  ConsoleInteractions.cpp
+G:\Cods\CourseworkOOP\ConsoleInteractions.cpp(126): warning C4715: Choice: значение возвращается не при всех путях выполнения
+  CourseworkOOP.vcxproj -> G:\Cods\CourseworkOOP\x64\Debug\CourseworkOOP.exe
